@@ -1,5 +1,5 @@
 # My website:
-[https://vlyot.github.io/portfolio-site](https://vlyot.github.io/portfolio)
+[https://vlyot.github.io/portfolio](https://vlyot.github.io/portfolio)
 
 
 # 💻 Tech Stack:
