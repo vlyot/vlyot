@@ -1,12 +1,19 @@
-# About me
-Novice Programmer and aspiring Software Engineer with a passion for technology, and user experience. Avid vibe coder.
+# About Me
 
-### Working on / Learning
-- Side Projects in my free time
-- Tensorflow ML development
-- Looking to collaborate on open source or community projects 
-- IOS Swift development
-- Raspberry PI and IoT stuff
+Software and AI engineer building full-stack and LLM systems on AWS and self-hosted infrastructure. I like taking inspiration from daily life and the things I read or come across.
+
+🌐 [Portfolio](https://vlyot.github.io/portfolio/)
+
+## What I'm working on
+- Side projects in my free time
+- iOS Swift development
+- Machine learning and LLM systems
+- Open source and community collaborations
+
+## Background
+- AWS certified: Solutions Architect Associate, ML Engineer Associate, AI Practitioner, Cloud Practitioner
+- Deep Learning and Machine Learning specialisations (DeepLearning.AI, Stanford)
+- Day-to-day stack: Python, TypeScript, Go, Rust, Docker, PostgreSQL
 
 # 💻 Tech Stack:
 ## Programming Languages
